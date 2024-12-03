@@ -1,0 +1,12 @@
+# pip run -r requirements.txt
+
+fastapi 
+uvicorn
+requests
+
+streamlit
+
+# chainlit
+openai
+python-dotenv
+-e .
