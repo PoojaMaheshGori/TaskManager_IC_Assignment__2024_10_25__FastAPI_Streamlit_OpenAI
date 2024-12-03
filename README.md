@@ -1,5 +1,5 @@
-![1732477414923](image/README/1732477414923.png)
-
+![Screenshot](images/README/1732477414923.png)
+----------------------------------------------------------------------------------------------------------------------
 '''
 
 pip install	 -r requirements.txt
@@ -24,9 +24,9 @@ conda info --envs
 
 conda create -n myenv_practice python=3.10 -y
 
-conda activate E:\POOJA-v2\repos\practice\myenv_practice
+conda activate E:\...\repos\practice\myenv_practice
 
-cd d:\POOJA\repos\Courses\GenAi\Pooja\2024_10_26__FastAPI_Streamlit
+cd d:\..\2024_10_26__FastAPI_Streamlit
 
 `pip install -r requirements.txt`	*Optional(Only when packages are not installed in the environment)*
 
